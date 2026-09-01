@@ -35,6 +35,13 @@ I'm 18 years old, currently preparing for my finals, and I enjoy building projec
 - 🦗 [**Grasshopper Game**](https://github.com/n2ize/grasshoppergame) — A game built with Godot.
 - 🐸 [**Frog with a gun**](https://github.com/n2ize/FroschRoguelike) — A game built with Godot in development.
 
+### 🛠️ Tools I use
+- 🎮 Building games with [Godot Engine](https://godotengine.org/de/)
+- 🤖 **Claude enjoyer**
+
+### 📫 Contact me
+- Discord: **`2nize`**
+- Email: **niki.ans@gmx.ch or niki.ans@gmx.de**
 ---
 
 <div align="center">
