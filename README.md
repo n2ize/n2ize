@@ -1,7 +1,44 @@
-<h3>About me</h3>
--  Hi, I’m @n2ize👋<br>
--  Im 18yo <br>
--  im living in Switzerland <br>
--  I build stuff <br>
+<div align="center">
 
+# Hi, I'm n2ize 👋
 
+**Student from Switzerland 🇨🇭 · Builder · Lifelong learner**
+
+I'm 18 years old, currently preparing for my finals, and I enjoy building projects and learning new technologies.
+
+[![GitHub followers](https://img.shields.io/github/followers/n2ize?style=for-the-badge&logo=github&label=Follow)](https://github.com/n2ize)
+[![Profile views](https://komarev.com/ghpvc/?username=n2ize&style=for-the-badge&color=7c3aed)](https://github.com/n2ize)
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+- 🎓 Student based in **Switzerland**
+- 🧠 Currently preparing for my finals
+- 🛠️ I love building things
+- 🌱 Always learning and exploring new stuff
+- ⚒️ Currently working on my Videogame!
+
+### 🧰 Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🚀 Featured projects
+
+- 🦗 [**Grasshopper Game**](https://github.com/n2ize/grasshoppergame) — A game built with Godot.
+- 🐸 [**Frog with a gun**](https://github.com/n2ize/FroschRoguelike) — A game built with Godot in development.
+
+---
+
+<div align="center">
+
+*“yes i made this awfullooking readme with AI...”*
+
+</div>
