@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi, I'm n2ize 👋
-
-**Student from Switzerland 🇨🇭 · Builder · Lifelong learner**
-
-I'm 18 years old, currently preparing for my finals, and I enjoy building projects and learning new technologies.
-
+## Hi, I'm n2ize 👋
+*Student from Switzerland 🇨🇭 · Builder · Lifelong learner*
+-I'm 18 years old, currently preparing for my finals, and I enjoy building projects and learning new technologies.
 </div>
 
 ---
