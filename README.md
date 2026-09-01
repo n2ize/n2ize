@@ -6,14 +6,11 @@
 
 I'm 18 years old, currently preparing for my finals, and I enjoy building projects and learning new technologies.
 
-[![GitHub followers](https://img.shields.io/github/followers/n2ize?style=for-the-badge&logo=github&label=Follow)](https://github.com/n2ize)
-[![Profile views](https://komarev.com/ghpvc/?username=n2ize&style=for-the-badge&color=7c3aed)](https://github.com/n2ize)
-
 </div>
 
 ---
 
-### 👨‍💻 About me
+### - About me
 
 - 🎓 Student based in **Switzerland**
 - 🧠 Currently preparing for my finals
@@ -21,7 +18,7 @@ I'm 18 years old, currently preparing for my finals, and I enjoy building projec
 - 🌱 Always learning and exploring new stuff
 - ⚒️ Currently working on my Videogame!
 
-### 🧰 Tech stack
+### - Tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -30,16 +27,16 @@ I'm 18 years old, currently preparing for my finals, and I enjoy building projec
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🚀 Featured projects
+### - Featured projects
 
 - 🦗 [**Grasshopper Game**](https://github.com/n2ize/grasshoppergame) — A game built with Godot.
 - 🐸 [**Frog with a gun**](https://github.com/n2ize/FroschRoguelike) — A game built with Godot in development.
 
-### 🛠️ Tools I use
-- 🎮 Building games with [Godot Engine](https://godotengine.org/de/)
-- 🤖 **Claude enjoyer**
+### - Tools I use
+-  Building games with [Godot Engine](https://godotengine.org/de/)
+-  **Claude enjoyer**
 
-### 📫 Contact me
+### -📫 Contact me
 - Discord: **`2nize`**
 - Email: **niki.ans@gmx.ch or niki.ans@gmx.de**
 ---
