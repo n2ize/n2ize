@@ -2,18 +2,12 @@
 
 <!-- ═══════════ BANNER (Platzhalter – in build_readme.py bei BANNER_URL ersetzen) ═══════════ -->
 <div align="center">
-  <img src="https://placehold.co/1200x300/0d1117/168A36/png?text=YOUR+BANNER+HERE" alt="n2ize banner" width="100%" />
+  <img src="assets/githubbanner.png" alt="n2ize banner" width="100%" />
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=168A36&height=3" width="100%" alt="" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=1000&color=168A36&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Hi,+I'm+n2ize+%F0%9F%91%8B" alt="Hi, I'm n2ize 👋" />
-
-<em>Student from Switzerland 🇨🇭 · Builder · Lifelong learner</em>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=30&lines=Building+a+videogame+in+Godot+%F0%9F%90%B8;Preparing+for+my+finals+%F0%9F%8E%93;Learning+something+new+every+day+%F0%9F%8C%B1" alt="Currently: building, studying, learning" />
-
-I'm 18 years old, currently preparing for my finals, and I enjoy building projects and learning new technologies.
 
 </div>
 
@@ -56,7 +50,7 @@ I'm 18 years old, currently preparing for my finals, and I enjoy building projec
   </tr>
 </table>
 
-<h3>📫 <img src="https://img.shields.io/badge/CONTACT_ME-168A36?style=for-the-badge" alt="Contact me" /></h3>
+<h3><img src="https://img.shields.io/badge/CONTACT_ME-168A36?style=for-the-badge" alt="Contact me" /></h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-2nize-168A36?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: 2nize" />
