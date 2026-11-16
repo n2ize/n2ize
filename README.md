@@ -37,13 +37,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🦗 <a href="https://github.com/n2ize/grasshoppergame"><b>Grasshopper Game</b></a></h4>
-      <p>A game built with Godot.</p>
+      <h4>😺 <a href="https://github.com/n2ize/Catagochi"><b>Catagochi</b></a></h4>
+      <p>virtual cat tamagochi</p>
       <img src="https://img.shields.io/badge/Godot-168A36?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
     </td>
     <td width="50%" valign="top">
       <h4>🐸 <a href="https://github.com/n2ize/FroschRoguelike"><b>Frog with a gun</b></a></h4>
-      <p>A game built with Godot in development.</p>
+      <p>a game built with Godot in development.</p>
       <img src="https://img.shields.io/badge/Godot-168A36?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
       <img src="https://img.shields.io/badge/In_development-168A36?style=flat-square" alt="In development" />
     </td>
