@@ -2,7 +2,7 @@
 
 <!-- ═══════════ BANNER (Platzhalter – in build_readme.py bei BANNER_URL ersetzen) ═══════════ -->
 <div align="center">
-  <img src="assets/githubbanner.png" alt="n2ize banner" width="100%" />
+  <img src="assets/githubbannerv2.png" alt="n2ize banner" width="100%" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=168A36&height=3" width="100%" alt="" />
 <div align="center">
