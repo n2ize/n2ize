@@ -40,9 +40,10 @@
       <h4>😺 <a href="https://github.com/n2ize/Catagochi"><b>Catagochi</b></a></h4>
       <p>virtual cat tamagochi</p>
       <img src="https://img.shields.io/badge/Godot-168A36?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+      <img src="https://img.shields.io/badge/In_development-168A36?style=flat-square" alt="In development" />
     </td>
     <td width="50%" valign="top">
-      <h4>🐸 <a href="https://github.com/n2ize/FroschRoguelike"><b>Frog with a gun</b></a></h4>
+      <h4>🐸 <a href="https://2nize.itch.io/frog-with-a-gun"><b>Frog with a gun</b></a></h4>
       <p>a game built with Godot in development.</p>
       <img src="https://img.shields.io/badge/Godot-168A36?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
       <img src="https://img.shields.io/badge/In_development-168A36?style=flat-square" alt="In development" />
